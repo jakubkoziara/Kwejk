@@ -24,8 +24,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <element signature="e#6#85#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glowna.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glowna.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.115385">
+              <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rejestracja.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rejestracja.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.1574074">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -34,7 +56,57 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rejestracja.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../IMGEngine/upload/rejestracja.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.730769">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <marker date="1344593550335" expanded="true" signature="557:1290" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="569:1279" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="579:716" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="602:626" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="637:705" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="726:842" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="737:762" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="773:831" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="852:977" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="863:896" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="907:966" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="987:1116" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="998:1024" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="1035:1105" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="1126:1266" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="1137:1164" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="1175:1255" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="2376:2509" placeholder="..." />
+                <marker date="1344593550335" expanded="true" signature="2677:2727" placeholder="SELECT * FRO..." />
+                <marker date="1344593550335" expanded="true" signature="2976:3028" placeholder="SELECT * FRO..." />
+                <marker date="1344593550335" expanded="true" signature="3498:3640" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +114,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/a.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/glowna.php" />
+        <option value="$PROJECT_DIR$/rejestracja.php" />
       </list>
     </option>
   </component>
@@ -67,7 +146,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -109,11 +188,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="D:/Program Files (x86)/Git/cmd/git.exe" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="recentsLimit" value="5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kwejk/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -134,6 +219,14 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -146,7 +239,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -155,18 +248,18 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -177,72 +270,90 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/IMGEngine/upload/ustawienia.php">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-15.36964">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/IMGEngine/upload/connection.php">
+    <entry file="file://$PROJECT_DIR$/../IMGEngine/upload/themes/default/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25578704">
-          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.33449075">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/IMGEngine/upload/rejestracja.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1344593550335" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/IMGEngine/upload/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8854167">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-          <folding>
-            <marker date="1344077494854" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
-            <marker date="1344077494854" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/IMGEngine/upload/includes/functions.php">
+    <entry file="file://$PROJECT_DIR$/../IMGEngine/upload/poczekalnia.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1344077429036" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1344077429036" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IMGEngine/upload/rejestracja.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <marker date="1344593550335" expanded="true" signature="557:1290" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="569:1279" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="579:716" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="602:626" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="637:705" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="726:842" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="737:762" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="773:831" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="852:977" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="863:896" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="907:966" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="987:1116" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="998:1024" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="1035:1105" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="1126:1266" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="1137:1164" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="1175:1255" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="2376:2509" placeholder="..." />
+            <marker date="1344593550335" expanded="true" signature="2677:2727" placeholder="SELECT * FRO..." />
+            <marker date="1344593550335" expanded="true" signature="2976:3028" placeholder="SELECT * FRO..." />
+            <marker date="1344593550335" expanded="true" signature="3498:3640" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glowna.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.115385">
+          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rejestracja.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1574074">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />

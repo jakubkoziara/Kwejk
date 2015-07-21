@@ -3,8 +3,6 @@
  * Created by PhpStorm.
  * User: Qba
  * Date: 2015-07-21
- * Time: 17:36
+ * Time: 19:43
  */
-
-require_once "glowna.php";
 
